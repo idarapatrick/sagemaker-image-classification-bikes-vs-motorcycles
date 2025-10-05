@@ -1,3 +1,4 @@
 cifar-100-python/
 *.tar.gz
 cifar.tar.gz
+captured_data/

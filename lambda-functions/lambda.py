@@ -1,3 +1,5 @@
+# File that contains all three lambda functions used in the project
+
 # function 1
 
 import json
